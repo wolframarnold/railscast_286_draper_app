@@ -1,0 +1,16 @@
+RailsCasts Episode #286: Draper
+
+http://railscasts.com/episodes/286-draper
+
+Commands used in episode
+
+  bundle
+  rails g draper:decorator user
+
+= RailsCasts Example Application -- before use of draper
+
+Run these commands to try it out.
+
+  bundle
+  rake db:setup
+  rails s
